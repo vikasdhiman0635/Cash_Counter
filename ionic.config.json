@@ -1,0 +1,7 @@
+{
+  "name": "Cash_Counter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
